@@ -50,4 +50,4 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
          name: artifact.war
-         path: github-actions-java-maven/target/hello.war
+         path: /home/runner/work/hello-world-war/hello-world-war/target/hello-world-war-1.0.0
